@@ -5,4 +5,4 @@ eureka:
 server:
   port: 8713
 
-test: 66
+test: 88
