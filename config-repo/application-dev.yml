@@ -5,4 +5,4 @@ eureka:
 server:
   port: 8713
 
-test: 你好
+test: 66
