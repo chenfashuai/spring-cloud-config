@@ -9,5 +9,5 @@ spring:
     url: jdbc:mysql://localhost:3306/test
     username: root
     driver-class-name: com.mysql.jdbc.Driver
-
+rr:
 user：123
