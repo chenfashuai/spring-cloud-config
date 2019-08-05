@@ -6,7 +6,7 @@ eureka:
 spring:
   datasource:
     password: 123456
-    url: jdbc:mysql://localhost:3306/test?serverTimezone=CTT&useUnicode=true&characterEncoding=utf-8&allowMultiQueries=true
+    url: jdbc:mysql://localhost:3306/test
     username: root
     driver-class-name: com.mysql.jdbc.Driver
-user：123
+
