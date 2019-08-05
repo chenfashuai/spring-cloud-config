@@ -10,4 +10,4 @@ spring:
     username: root
     driver-class-name: com.mysql.jdbc.Driver
 rr:
-user：123
+user: 123
